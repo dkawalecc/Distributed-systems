@@ -1,3 +1,9 @@
+node_modules/
+.gitignore
+demo*/
+*.pdf
+*.zip
+
 # Logs
 logs
 *.log

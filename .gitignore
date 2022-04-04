@@ -3,6 +3,7 @@ node_modules/
 demo*/
 *.pdf
 *.zip
+*.jar
 
 # Logs
 logs
